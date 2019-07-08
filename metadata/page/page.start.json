@@ -21,7 +21,8 @@
     "page.penalty-location",
     "page.check-you-can-apply",
     "page.check-you-can-apply-2",
-    "page.penalty-charge-details"
+    "page.penalty-charge-details",
+    "page.application-evidence"
   ],
   "url": "/"
 }

@@ -8,6 +8,7 @@
       "$definition": true,
       "_id": "page.check-you-can-apply--checkboxes",
       "_type": "checkboxes",
+      "hint": "Select at least one option",
       "items": [
         {
           "$component": true,
@@ -87,5 +88,10 @@
     }
   ],
   "heading": "Why are you applying?",
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
   "url": "check-you-can-apply"
 }

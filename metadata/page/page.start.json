@@ -23,7 +23,8 @@
     "page.check-you-can-apply-2",
     "page.supporting-evidence",
     "page.penalty-charge-details",
-    "page.your-details"
+    "page.your-details",
+    "page.is-the-vehicle-owned-and-registered-by-a-company"
   ],
   "url": "/"
 }

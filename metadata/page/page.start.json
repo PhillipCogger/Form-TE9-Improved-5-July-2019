@@ -18,8 +18,9 @@
   ],
   "heading": "Form to stop an order for recovery of an unpaid penalty charge",
   "steps": [
-    "page.check-you-can-apply",
     "page.penalty-location",
+    "page.check-you-can-apply",
+    "page.check-you-can-apply-2",
     "page.penalty-charge-details"
   ],
   "url": "/"

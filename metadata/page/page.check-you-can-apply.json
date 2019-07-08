@@ -1,0 +1,39 @@
+{
+  "_id": "page.check-you-can-apply",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.check-you-can-apply--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__1",
+          "_type": "checkbox",
+          "label": "You didn't receive the penalty charge notice",
+          "name": "auto_name__1"
+        },
+        {
+          "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "You made representations to the local authority, but haven't received a reply",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "You've appealed to an adjudicator",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "You've paid the penalty charge",
+          "name": "auto_name__4"
+        }
+      ],
+      "legend": "You can only apply to stop an order for recovery of an unpaid penalty charge if one of the following applies to you."
+    }
+  ],
+  "heading": "Check you can apply",
+  "url": "check-you-can-apply"
+}

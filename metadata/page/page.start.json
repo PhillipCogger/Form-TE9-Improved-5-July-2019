@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "You can only apply to stop an order for recovery of a penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but haven't received a reply\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full",
+  "body": "You can only apply to stop an order for recovery of an unpaid penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but haven't received a reply\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full",
   "components": [
     {
       "_id": "page.start--inset",
@@ -16,7 +16,9 @@
       "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
     }
   ],
-  "heading": "Form to stop an order for recovery of a penalty charge",
-  "steps": [],
+  "heading": "Form to stop an order for recovery of an unpaid penalty charge",
+  "steps": [
+    "page.check-you-can-apply"
+  ],
   "url": "/"
 }

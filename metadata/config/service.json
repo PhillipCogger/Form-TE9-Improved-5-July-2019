@@ -5,6 +5,6 @@
   "code": "TE9",
   "name": "TE9: Form to stop an order for recovery of a penalty charge",
   "pdfHeading": "TE9: Form to stop an order for recovery of a penalty charge",
-  "phase": "alpha",
-  "phaseText": "Service phase text goes here"
+  "phase": "none",
+  "phaseText": "This is not a service"
 }

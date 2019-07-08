@@ -1,0 +1,45 @@
+{
+  "_id": "page.penalty-location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.penalty-location--radios.auto_name__10",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__1",
+          "_type": "radio",
+          "label": "London Borough",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Dartford Crossing",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Mersey Tunnel (Birkenhead or Kingsway)",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__4",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__4--textarea.auto_name__11",
+            "_type": "textarea",
+            "label": "Give details",
+            "name": "auto_name__11"
+          },
+          "label": "Other",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Where did the penalty happen?",
+      "name": "auto_name__10"
+    }
+  ],
+  "url": "penalty-location"
+}

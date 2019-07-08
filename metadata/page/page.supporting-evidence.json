@@ -16,6 +16,11 @@
       "_id": "page.supporting-evidence--fileupload.auto_name__17",
       "_type": "fileupload",
       "name": "auto_name__17"
+    },
+    {
+      "_id": "page.supporting-evidence--fileupload.auto_name__18",
+      "_type": "fileupload",
+      "name": "auto_name__18"
     }
   ],
   "heading": "Provide evidence to support your application",

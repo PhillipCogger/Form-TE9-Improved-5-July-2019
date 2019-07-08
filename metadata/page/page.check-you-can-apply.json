@@ -89,9 +89,9 @@
   ],
   "heading": "Why are you applying?",
   "show": {
-    "identifier": "auto_name__10",
+    "identifier": "penalty_location",
     "operator": "is",
-    "value": "auto_value__4"
+    "value": "penalty_location_other_location"
   },
   "url": "check-you-can-apply"
 }

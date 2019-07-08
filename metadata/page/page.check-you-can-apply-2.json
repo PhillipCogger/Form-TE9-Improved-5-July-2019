@@ -62,9 +62,9 @@
   ],
   "heading": "Why are you applying?",
   "show": {
-    "identifier": "auto_name__10",
+    "identifier": "penalty_location",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "penalty_location_london"
   },
   "url": "check-you-can-apply-2"
 }

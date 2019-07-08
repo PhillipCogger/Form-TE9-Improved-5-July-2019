@@ -1,7 +1,14 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "You can only apply to stop an order for recovery of a penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but they haven't sent you a rejection notice\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full",
+  "body": "You can only apply to stop an order for recovery of a penalty charge if:\r\n\r\n* you didn't receive the penalty charge notice\r\n* you made representations to the local authority, but haven't received a reply\r\n* you've appealed to an adjudicator, but haven't received a decision, response, or you won the appeal\r\n* you've paid the penalty charge in full",
+  "components": [
+    {
+      "_id": "page.start--inset",
+      "_type": "inset",
+      "html": "If you have any difficulty completing this form you can contact the Traffic Enforcement Centre on 0300 123 1059."
+    }
+  ],
   "extraComponents": [
     {
       "_id": "page.start--content",

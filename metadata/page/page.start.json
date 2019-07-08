@@ -29,7 +29,10 @@
     "page.who-is-completing-the-form",
     "page.what-is-your-role",
     "page.respondent-confirmation",
-    "page.confirmation-on-behalf-of-respondent"
+    "page.confirmation-on-behalf-of-respondent",
+    "page.contact-preferences",
+    "page.your-email-address",
+    "page.your-phone-number"
   ],
   "url": "/"
 }

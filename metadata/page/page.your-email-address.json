@@ -1,0 +1,19 @@
+{
+  "_id": "page.your-email-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-email-address--email.auto_name__35",
+      "_type": "email",
+      "hint": "We'll only use this to contact you about your application",
+      "label": "Email address",
+      "name": "auto_name__35"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__34",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "your-email-address"
+}

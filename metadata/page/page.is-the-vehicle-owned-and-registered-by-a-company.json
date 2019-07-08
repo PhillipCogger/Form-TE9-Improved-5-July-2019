@@ -13,20 +13,20 @@
             "_id": "page.is-the-vehicle-owned-and-registered-by-a-company--radios.auto_name__22--radio.auto_value__1--text.auto_name__23",
             "_type": "text",
             "label": "What's the name of the company?",
-            "name": "auto_name__23"
+            "name": "vehicle_registered_company_name"
           },
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "vehicle_registered_by_company_yes"
         },
         {
           "_id": "page.is-the-vehicle-owned-and-registered-by-a-company--radios.auto_name__22--radio.auto_value__1--2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__1"
+          "value": "vehicle_registered_by_company_no"
         }
       ],
       "legend": "Is the vehicle owned and registered by a company?",
-      "name": "auto_name__22"
+      "name": "vehicle_registered_by_company"
     }
   ],
   "url": "is-the-vehicle-owned-and-registered-by-a-company"

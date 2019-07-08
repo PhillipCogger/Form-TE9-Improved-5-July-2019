@@ -7,21 +7,21 @@
       "_id": "page.respondent-confirmation--text.auto_name__30",
       "_type": "text",
       "label": "Your full name",
-      "name": "auto_name__30"
+      "name": "confirmation_respondent_full_name"
     },
     {
       "_id": "page.respondent-confirmation--date.auto_name__31",
       "_type": "date",
       "hint": "For example, 27 6 2019",
       "label": "Date",
-      "name": "auto_name__31"
+      "name": "confirmation_respondent_date"
     }
   ],
   "heading": "Confirmation",
   "show": {
-    "identifier": "auto_name__27",
+    "identifier": "person_completing_form",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "respondent_completing_form"
   },
   "url": "respondent-confirmation"
 }

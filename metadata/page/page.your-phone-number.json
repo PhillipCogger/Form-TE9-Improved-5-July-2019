@@ -7,13 +7,13 @@
       "_type": "number",
       "hint": "We'll only use this to contact you about your application",
       "label": "Phone number",
-      "name": "auto_name__36"
+      "name": "contact_phone_number"
     }
   ],
   "show": {
-    "identifier": "auto_name__34",
+    "identifier": "contact_preference",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "contact_preference_email"
   },
   "url": "your-phone-number"
 }

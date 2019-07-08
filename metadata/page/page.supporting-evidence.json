@@ -6,7 +6,7 @@
       "_id": "page.supporting-evidence--fileupload.auto_name__11",
       "_type": "fileupload",
       "hint": "For example, a copy of a receipt to show you paid the penalty charge, or a copy of an appeal letter to the adjudicator.",
-      "name": "evidence_to_support_application",
+      "name": "application_evidence",
       "validation": {
         "required": false
       }

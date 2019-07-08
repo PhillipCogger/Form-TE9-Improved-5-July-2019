@@ -3,8 +3,8 @@
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
   "code": "TE9",
-  "name": "TE9: Form to stop an order for recovery of a penalty charge",
-  "pdfHeading": "TE9: Form to stop an order for recovery of a penalty charge",
+  "name": "TE9: Form to stop an order for recovery of an unpaid penalty charge",
+  "pdfHeading": "TE9: Form to stop an order for recovery of an unpaid penalty charge",
   "phase": "none",
   "phaseText": "This is not a service"
 }

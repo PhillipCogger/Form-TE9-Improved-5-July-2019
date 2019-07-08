@@ -1,10 +1,10 @@
 {
-  "_id": "page.your-email-address",
+  "_id": "page.email-address",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.your-email-address--email.auto_name__35",
-      "_type": "email",
+      "_id": "page.email-address--number.auto_name__35",
+      "_type": "number",
       "hint": "We'll only use this to contact you about your application",
       "label": "Email address",
       "name": "auto_name__35"

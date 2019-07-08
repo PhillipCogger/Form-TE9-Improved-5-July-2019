@@ -31,8 +31,10 @@
     "page.respondent-confirmation",
     "page.confirmation-on-behalf-of-respondent",
     "page.contact-preferences",
-    "page.your-email-address",
-    "page.your-phone-number"
+    "page.your-phone-number",
+    "page.email-address",
+    "page.check-your-answers",
+    "page.application-sent"
   ],
   "url": "/"
 }

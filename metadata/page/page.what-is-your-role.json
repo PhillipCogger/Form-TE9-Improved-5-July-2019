@@ -1,0 +1,42 @@
+{
+  "_id": "page.what-is-your-role",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.what-is-your-role--radios.auto_name__28",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Officer of the company",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Partner of the firm",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3--fileupload.auto_name__29",
+            "_type": "fileupload",
+            "hint": "Provide evidence to support this, such as a photo of a court order or lasting power of attorney",
+            "name": "auto_name__29",
+            "validation": {
+              "required": true
+            }
+          },
+          "label": "Litigation friend",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "What is your role?",
+      "name": "auto_name__28"
+    }
+  ],
+  "url": "what-is-your-role"
+}

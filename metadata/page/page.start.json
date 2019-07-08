@@ -24,7 +24,12 @@
     "page.supporting-evidence",
     "page.penalty-charge-details",
     "page.your-details",
-    "page.is-the-vehicle-owned-and-registered-by-a-company"
+    "page.is-the-vehicle-owned-and-registered-by-a-company",
+    "page.payment-details",
+    "page.who-is-completing-the-form",
+    "page.what-is-your-role",
+    "page.respondent-confirmation",
+    "page.confirmation-on-behalf-of-respondent"
   ],
   "url": "/"
 }

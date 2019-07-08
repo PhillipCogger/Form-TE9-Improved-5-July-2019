@@ -1,0 +1,53 @@
+{
+  "_id": "page.payment-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.payment-details--date.auto_name__24",
+      "_type": "date",
+      "hint": "For example, 12 11 2018",
+      "label": "Date of payment",
+      "name": "auto_name__24"
+    },
+    {
+      "_id": "page.payment-details--radios.auto_name__25",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.payment-details--radios.auto_name__25--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Cash",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.payment-details--radios.auto_name__25--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Cheque",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.payment-details--radios.auto_name__25--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Credit card",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.payment-details--radios.auto_name__25--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Debit card",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "How did you pay?",
+      "name": "auto_name__25"
+    },
+    {
+      "_id": "page.payment-details--text.auto_name__26",
+      "_type": "text",
+      "label": "What organisation did you pay?",
+      "name": "auto_name__26"
+    }
+  ],
+  "heading": "Payment details",
+  "url": "payment-details"
+}

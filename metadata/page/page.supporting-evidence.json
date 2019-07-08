@@ -3,24 +3,16 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.supporting-evidence--fileupload.auto_name__11",
       "_type": "fileupload",
-      "name": "auto_name__11"
-    },
-    {
-      "_id": "page.supporting-evidence--fileupload.auto_name__16",
-      "_type": "fileupload",
-      "name": "auto_name__16"
-    },
-    {
-      "_id": "page.supporting-evidence--fileupload.auto_name__17",
-      "_type": "fileupload",
-      "name": "auto_name__17"
-    },
-    {
-      "_id": "page.supporting-evidence--fileupload.auto_name__18",
-      "_type": "fileupload",
-      "name": "auto_name__18"
+      "name": "auto_name__11",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Provide evidence to support your application",

@@ -13,7 +13,7 @@
   "show": {
     "identifier": "contact_preference",
     "operator": "is",
-    "value": "contact_preference_email"
+    "value": "contact_preference_text_message"
   },
   "url": "your-phone-number"
 }

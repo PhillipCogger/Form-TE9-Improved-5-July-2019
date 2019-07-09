@@ -7,21 +7,30 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1",
           "_type": "radio",
-          "label": "Officer of the company",
+          "label": "Officer of the company or partnership firm",
+          "show": {
+            "identifier": "vehicle_registered_by_company",
+            "operator": "is",
+            "value": "vehicle_registered_by_company_yes"
+          },
           "value": "officer_of_the_company"
         },
         {
-          "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--2",
-          "_type": "radio",
-          "label": "Partner of the firm",
-          "value": "partner_of_the_firm"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3",
           "_type": "radio",
           "conditionalComponent": {
+            "$component": true,
+            "$control": true,
+            "$definition": true,
+            "$field": true,
             "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3--fileupload.auto_name__29",
             "_type": "fileupload",
             "hint": "Provide evidence to support this, such as a photo of a court order or lasting power of attorney",

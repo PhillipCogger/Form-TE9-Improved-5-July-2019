@@ -47,5 +47,10 @@
       "name": "person_completing_form_role"
     }
   ],
+  "show": {
+    "identifier": "person_completing_form",
+    "operator": "is",
+    "value": "completing_form_on_behalf_of_respondent"
+  },
   "url": "what-is-your-role"
 }

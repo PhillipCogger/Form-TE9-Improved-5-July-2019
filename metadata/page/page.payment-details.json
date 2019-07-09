@@ -52,12 +52,17 @@
   "show": {
     "any": [
       {
+        "0": {
+          "identifier": "reason_for_applying_penalty_charge_paid",
+          "operator": "defined"
+        },
         "identifier": "reason_for_applying_penalty_charge_paid",
         "operator": "defined"
       },
       {
-        "identifier": "reason_for_applying_penalty_charge_paid",
-        "operator": "defined"
+        "identifier": "reason_for_applying_unpaid_penalty_charge",
+        "operator": "is",
+        "value": "reason_for_applying_penalty_charge_paid"
       }
     ],
     "conditionsType": "any"

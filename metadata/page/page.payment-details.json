@@ -50,7 +50,7 @@
   ],
   "heading": "Payment details",
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "reason_for_applying_penalty_charge_paid",
         "operator": "defined"
@@ -59,7 +59,8 @@
         "identifier": "reason_for_applying_penalty_charge_paid",
         "operator": "defined"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "payment-details"
 }

@@ -27,7 +27,7 @@
             "hint": "Provide evidence to support this, such as a photo of a court order or lasting power of attorney",
             "name": "litigation_friend_evidence",
             "validation": {
-              "required": true
+              "required": false
             }
           },
           "label": "Litigation friend",

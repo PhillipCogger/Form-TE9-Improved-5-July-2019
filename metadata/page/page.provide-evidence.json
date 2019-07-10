@@ -5,7 +5,7 @@
     {
       "_id": "page.provide-evidence--fileupload.auto_name__1",
       "_type": "fileupload",
-      "hint": "For example, you can upload a photo or copy of a court order or lasting power of attorney (LPA)",
+      "hint": "For example, a photo or copy of a court order or lasting power of attorney (LPA)",
       "label": "Provide evidence that you can act on the respondent's behalf",
       "name": "auto_name__1"
     }

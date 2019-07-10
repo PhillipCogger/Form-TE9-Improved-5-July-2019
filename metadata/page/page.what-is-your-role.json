@@ -13,7 +13,11 @@
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1",
           "_type": "radio",
           "label": "Officer of the company or partnership firm",
-          "show": true,
+          "show": {
+            "identifier": "vehicle_registered_by_company",
+            "operator": "is",
+            "value": "vehicle_registered_by_company_yes"
+          },
           "value": "officer_of_the_company"
         },
         {

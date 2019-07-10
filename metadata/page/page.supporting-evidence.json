@@ -1,16 +1,24 @@
 {
   "_id": "page.supporting-evidence",
   "_type": "page.form",
+  "body": "For example, a copy or photo of a receipt to show you paid the penalty charge, or a copy of an appeal letter to the adjudicator.",
   "components": [
     {
-      "_id": "page.supporting-evidence--fileupload.auto_name__11",
-      "_type": "fileupload",
-      "hint": "For example, a copy or photo of a receipt to show you paid the penalty charge, or a copy of an appeal letter to the adjudicator.",
-      "label": "Acceptable evidence",
-      "name": "application_evidence",
-      "validation": {
-        "required": false
-      }
+      "_id": "page.supporting-evidence--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.supporting-evidence--fieldset--fileupload.auto_name__2",
+          "_type": "fileupload",
+          "label": "Supporting evidence",
+          "name": "supporting_evidence"
+        }
+      ],
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableAdd": "Add another file",
+      "repeatableDelete": "Remove file",
+      "repeatableMaximum": 20
     }
   ],
   "heading": "Provide evidence to support your application",

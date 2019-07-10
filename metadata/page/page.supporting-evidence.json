@@ -16,8 +16,8 @@
       ],
       "namespace": "namespace_auto__1",
       "repeatable": true,
-      "repeatableAdd": "Add another file",
-      "repeatableDelete": "Remove file",
+      "repeatableAdd": "Add more evidence",
+      "repeatableDelete": "Remove evidence",
       "repeatableMaximum": 20
     }
   ],

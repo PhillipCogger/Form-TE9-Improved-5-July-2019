@@ -22,19 +22,6 @@
           "$option": true,
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3",
           "_type": "radio",
-          "conditionalComponent": {
-            "$component": true,
-            "$control": true,
-            "$definition": true,
-            "$field": true,
-            "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3--fileupload.auto_name__29",
-            "_type": "fileupload",
-            "hint": "Provide evidence to support this, such as a photo of a court order or lasting power of attorney",
-            "name": "litigation_friend_evidence",
-            "validation": {
-              "required": false
-            }
-          },
           "label": "Litigation friend",
           "value": "litigation_friend"
         }

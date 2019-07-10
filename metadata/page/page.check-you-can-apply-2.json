@@ -23,28 +23,30 @@
           "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7",
           "_type": "radio",
           "conditionalComponent": {
-            "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--checkboxes",
-            "_type": "checkboxes",
+            "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--radios.auto_name__1",
+            "_type": "radios",
             "items": [
               {
-                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--checkboxes--checkbox.auto_name__12",
-                "_type": "checkbox",
+                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--radios.auto_name__1--radio.auto_value__1",
+                "_type": "radio",
                 "label": "I haven't received a response to my appeal",
-                "name": "reason_for_applying_no_response_to_adjudicator_appeal"
+                "value": "appealed_to_adjudicator_no_response_to_appeal"
               },
               {
-                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--checkboxes--checkbox.auto_name__14",
-                "_type": "checkbox",
+                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--radios.auto_name__1--radio.auto_value__2",
+                "_type": "radio",
                 "label": "The adjudicator hadn't made a decision by the time I'd received the charge certificate",
-                "name": "reason_for_applying_adjudicator_no_decision"
+                "value": "appealed_to_adjudicator_no_appeal_decision"
               },
               {
-                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--checkboxes--checkbox.auto_name__15",
-                "_type": "checkbox",
+                "_id": "page.check-you-can-apply-2--radios.auto_name__13--radio.auto_value__7--radios.auto_name__1--radio.auto_value__3",
+                "_type": "radio",
                 "label": "I won the appeal",
-                "name": "reason_for_applying_adjudicator_won_appeal"
+                "value": "won_adjudicator_appeal"
               }
-            ]
+            ],
+            "legend": "Select only one option",
+            "name": "appealed_to_adjudicator_options"
           },
           "label": "I've appealed to an adjudicator",
           "value": "reason_for_applying_appealed_to_adjudicator"

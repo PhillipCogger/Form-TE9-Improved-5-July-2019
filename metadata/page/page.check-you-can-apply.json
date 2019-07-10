@@ -57,7 +57,7 @@
                 "value": "won_adjudicator_appeal"
               }
             ],
-            "legend": "Choose only one option",
+            "legend": "Select only one option",
             "name": "appealed_to_adjudicator_options"
           },
           "label": "I've appealed to an adjudicator",

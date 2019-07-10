@@ -32,9 +32,18 @@
     }
   ],
   "show": {
-    "identifier": "person_completing_form",
-    "operator": "is",
-    "value": "completing_form_on_behalf_of_respondent"
+    "all": [
+      {
+        "identifier": "person_completing_form",
+        "operator": "is",
+        "value": "completing_form_on_behalf_of_respondent"
+      },
+      {
+        "identifier": "vehicle_registered_by_company",
+        "operator": "is",
+        "value": "vehicle_registered_by_company_yes"
+      }
+    ]
   },
   "url": "what-is-your-role"
 }

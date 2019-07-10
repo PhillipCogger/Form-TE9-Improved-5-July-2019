@@ -35,41 +35,10 @@
           "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3",
           "_type": "checkbox",
           "conditionalComponent": {
-            "$component": true,
-            "$control": true,
-            "$definition": true,
-            "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3--checkboxes",
-            "_type": "checkboxes",
-            "items": [
-              {
-                "$component": true,
-                "$definition": true,
-                "$option": true,
-                "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3--checkboxes--checkbox.auto_name__5",
-                "_type": "checkbox",
-                "label": "I haven't received a response to my appeal",
-                "name": "reason_for_applying_no_response_to_adjudicator_appeal"
-              },
-              {
-                "$component": true,
-                "$definition": true,
-                "$option": true,
-                "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3--checkboxes--checkbox.auto_name__6",
-                "_type": "checkbox",
-                "label": "The adjudicator hadn't made a decision by the time I'd received the charge certificate",
-                "name": "reason_for_applying_adjudicator_no_decision"
-              },
-              {
-                "$component": true,
-                "$definition": true,
-                "$option": true,
-                "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3--checkboxes--checkbox.auto_name__7",
-                "_type": "checkbox",
-                "label": "I won the appeal",
-                "name": "reason_for_applying_adjudicator_won_appeal"
-              }
-            ],
-            "legend": "Choose only one option"
+            "_id": "page.check-you-can-apply--checkboxes--checkbox.auto_name__3--radios.auto_name__1",
+            "_type": "radios",
+            "legend": "Choose only one option",
+            "name": "appealed_to_adjudicator_options"
           },
           "label": "I've appealed to an adjudicator",
           "name": "reason_for_applying_appealed_to_adjudicator"

@@ -73,7 +73,8 @@
           "name": "reason_for_applying_penalty_charge_paid"
         }
       ],
-      "legend": "Tell us why you're applying to stop an order for recovery of an unpaid penalty charge."
+      "legend": "Tell us why you're applying to stop an order for recovery of an unpaid penalty charge.",
+      "show": true
     }
   ],
   "heading": "Why are you applying?",

@@ -22,6 +22,7 @@
           "$option": true,
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1--3",
           "_type": "radio",
+          "hint": "Someone who can legally act on the respondent's behalf",
           "label": "Litigation friend",
           "value": "litigation_friend"
         }

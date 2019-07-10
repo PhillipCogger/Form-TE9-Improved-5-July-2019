@@ -11,7 +11,10 @@
           "_id": "page.supporting-evidence--fieldset--fileupload.auto_name__2",
           "_type": "fileupload",
           "label": "Supporting evidence",
-          "name": "supporting_evidence"
+          "name": "supporting_evidence",
+          "validation": {
+            "required": false
+          }
         }
       ],
       "namespace": "namespace_auto__1",

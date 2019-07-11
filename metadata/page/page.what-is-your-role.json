@@ -12,7 +12,7 @@
           "$option": true,
           "_id": "page.what-is-your-role--radios.auto_name__28--radio.auto_value__1",
           "_type": "radio",
-          "label": "Officer of the company or partnership firm",
+          "label": "Officer of the company or partnership",
           "show": {
             "identifier": "vehicle_registered_by_company",
             "operator": "is",

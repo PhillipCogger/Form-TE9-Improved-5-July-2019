@@ -21,7 +21,7 @@
           "$option": true,
           "_id": "page.penalty-location--radios.auto_name__10--radio.auto_value__4",
           "_type": "radio",
-          "label": "Anywhere else",
+          "label": "Outside London",
           "value": "penalty_location_other_location"
         }
       ],

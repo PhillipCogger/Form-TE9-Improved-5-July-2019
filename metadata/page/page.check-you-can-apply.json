@@ -8,7 +8,7 @@
       "$definition": true,
       "_id": "page.check-you-can-apply--checkboxes",
       "_type": "checkboxes",
-      "hint": "Select at least one option",
+      "hint": "Select all that apply",
       "items": [
         {
           "$component": true,
